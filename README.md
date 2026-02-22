@@ -152,10 +152,4 @@ curl http://localhost:8080/persons/bind/1/1
 - Service layer abstraction
 - Repository pattern implementation
 
-## Development
 
-The application uses Spring Boot DevTools for hot reloading during development. Any changes to the code will automatically restart the application.
-
-## License
-
-This project is for educational purposes demonstrating JPA relationship mappings.
